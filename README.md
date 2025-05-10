@@ -16,3 +16,4 @@ DESCRIPTION: The E-Learning Platform is a responsive web application developed u
 
 
 # OUTPUT OF THE TASK
+![Image](https://github.com/user-attachments/assets/ba2b8a33-5352-4781-8e7c-5a2c95105577)
